@@ -1,0 +1,3 @@
+pandas
+vobject
+openpyxl
